@@ -2,13 +2,6 @@
   "name": "@point-of-sale/webbluetooth-receipt-printer",
   "version": "2.0.0",
   "type": "module",
-  "exports": {
-      "browser": {
-          "import": "./dist/webbluetooth-receipt-printer.esm.js",
-          "require": "./dist/webbluetooth-receipt-printer.umd.js",
-          "script": "./dist/webbluetooth-receipt-printer.umd.js"
-      }
-  },
   "module": "src/main.js",
   "repository": {
     "type": "git",
